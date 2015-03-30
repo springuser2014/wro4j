@@ -65,6 +65,7 @@ If you have any questions or suggestions, please feel free to post a comment to 
 
 [Follow me](http://twitter.com/#!/wro4j) on tweeter.
 
+[Blog] (http://meri-stuff.blogspot.sk/2012/08/wro4j-page-load-optimization-and-lessjs.html)
 
 # License
 
